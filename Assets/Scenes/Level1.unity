@@ -630,7 +630,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lives: 3
-  bricks: 20
+  bricks: 28
   resetDelay: 1
   livesText: {fileID: 676163083}
   gameOver: {fileID: 659367227}
